@@ -17,7 +17,10 @@ body {
     right:0;
     top:0; 
     z-index: 999;   
-}      
+}    
+#header > div{
+    flex: 3;
+}  
 #subs {
     display: inline-block;
 }        
@@ -44,6 +47,7 @@ body {
     text-decoration: none;
     color: black;
     font-weight: bolder;
+    margin-right: 15px;
 }        
 #nav_icons i {
     margin: 0px 15px;
@@ -450,16 +454,20 @@ body {
     #nav_icons a 
     {
         font-size: small;
+        margin-right: 3px;
     }
     #nav_icons
     {
         font-weight: 400;
         font-size: smaller;
     }
-    .header
+    #header
     {
         text-align: center;
         padding: 0.5%;
+    }
+    #header > div{
+        flex: 8;
     }
    .slidbar{
        height:300px;
