@@ -16,17 +16,17 @@ We have to clone an e-commerce website that provides monthly subscriptions for l
 
 Features:-
 
-Home Page
+  1. Home Page
 
-Sign-in/Sign-up Page
+  2. Sign-in/Sign-up Page
 
-Product pages
+  3. Product pages
 
-Cart Page
+  4. Cart Page
 
-Payment Page
+  5. Payment Page
 
-Associated Brands Page
+  6. Associated Brands Page
 
 
 Tech Stack:  
