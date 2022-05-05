@@ -3,7 +3,7 @@
 
   Blog Link :- https://medium.com/@ritesh.mude12345/fabbag-2-0-480c19ea611c
   
-  Preentation video link :- https://drive.google.com/file/d/1f3Dn9oi5tMUbi6r2pfN39f8eL7mc9XS6/view?usp=sharing
+  Presentation video link :- https://drive.google.com/file/d/1f3Dn9oi5tMUbi6r2pfN39f8eL7mc9XS6/view?usp=sharing
   
   Deploy Link :- https://fab-bag2-0.netlify.app/
 
