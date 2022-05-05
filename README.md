@@ -1,5 +1,5 @@
 
-#   We have to clone an e-commerce website that provides monthly subscriptions for lady's beauty products.
+#   We have to clone an e-commerce website FABBAG.com that provides monthly subscriptions for lady's beauty products.
 
   Blog Link :- https://medium.com/@ritesh.mude12345/fabbag-2-0-480c19ea611c
   
